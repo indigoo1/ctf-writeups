@@ -54,3 +54,16 @@ Being bijective, every step is **invertible** — no brute force needed.
 ```
 GPNCTF{tHIs_mEaL_1s_SpecuLAtiV31y_DeLicIous!!!!}
 ```
+
+---
+
+## Decrypted Chunks
+
+| ENC index | Raw value | Decoded |
+|-----------|-----------|---------|
+| ENC[0] | `0xee7590ece97175e5` | `GPNCTF{t` |
+| ENC[1] | `0x47ba852c3a1e6bea` | `HIs_mEaL` |
+| ENC[2] | `0x7aabc80b3a4a65f2` | `_1s_Spec` |
+| ENC[3] | `0xcd9dbec610fa3ba1` | `uLAtiV31` |
+| ENC[4] | `0xf5973f9a4f57f0ff` | `y_DeLicI` |
+| ENC[5] | `0xae79dd584227081f` | `ous!!!!}` |
