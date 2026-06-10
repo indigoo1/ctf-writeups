@@ -3,7 +3,7 @@
 | Field | Details |
 |-------|---------|
 | **Challenge** | meh |
-| **Platform** | themectf.com |
+| **Platform** | themctf.com |
 | **Category** | Web |
 | **Flag** | `THEM?!CTF{an0ther_4noth3r_sh1t_ch4lleng3_f5bc552656c9a3d06c3f890}` |
 
