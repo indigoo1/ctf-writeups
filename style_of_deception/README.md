@@ -3,7 +3,7 @@
 | Field | Details |
 |-------|---------|
 | **Challenge** | Style of Deception |
-| **Platform** | themectf.com |
+| **Platform** | themctf.com |
 | **Category** | Web / Steganography |
 | **Flag** | `THEM?!CTF{CSS_M4G1C}` |
 
