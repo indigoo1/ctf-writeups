@@ -5,7 +5,7 @@
 | **Challenge** | COMpetition |
 | **CTF** | GPN CTF 2024 |
 | **Category** | Crypto |
-| **Flag** | `GPNCTF{...}` |
+| **Flag** | `GPNCTF{W4IT, i7'S NOT ju5t LuCK? NeVeR h4S bE3N.}` |
 
 ---
 
@@ -56,5 +56,5 @@ The same committed hash opens validly for any of the three choices — pick the 
 ## Flag
 
 ```
-GPNCTF{...}
+GPNCTF{W4IT, i7'S NOT ju5t LuCK? NeVeR h4S bE3N.}
 ```
