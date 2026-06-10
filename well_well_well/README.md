@@ -3,7 +3,7 @@
 | Field | Details |
 |-------|---------|
 | **Challenge** | Well Well Well |
-| **Platform** | themectf.com |
+| **Platform** | themctf.com |
 | **Category** | Forensics / Malware Analysis |
 | **Flag** | `THEM?!CTF{y3h..INSINAn1mie2;/:j92019p:SAD912j3op:dlamdo0912-41[4jmpAif10pri1;r12r1rh8012r}` |
 
