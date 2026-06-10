@@ -1,4 +1,4 @@
-# GPN CTF 2024/2025 — Writeups
+# GPN CTF 2024/2025 (5-6 June) — Writeups
 
 | Challenge | Category | Flag |
 |-----------|----------|------|
