@@ -49,7 +49,19 @@ After seeing the opponent's pick, open to the winning choice by adjusting where 
 | scissors | rock | `pre` | `'paperscissors' + suf` |
 | paper | scissors | `pre + 'rockpaper'` | `suf` |
 
-The same committed hash opens validly for any of the three choices — pick the winner every time.
+A fresh nonce each round means the `already_seen` check never fires. Run 100 rounds, win every one.
+
+---
+
+## Fix
+
+Length-prefix the message before hashing:
+
+```python
+sha256(r1 + len(message).to_bytes(4, 'big') + message + r2)
+```
+
+This makes the boundary unambiguous — the same bytes can no longer be split to open as different choices.
 
 ---
 
